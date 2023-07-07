@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/fish-library-app/static/css/main.e84c1719.css",
+    "main.js": "/fish-library-app/static/js/main.e7b174e8.js",
+    "static/media/341675610___n.jpg": "/fish-library-app/static/media/341675610_3075286262775926_1037250746371991566_n.e6c0fca3f280718b014d.jpg",
+    "static/media/341574772_255036097005315__n.jpg": "/fish-library-app/static/media/341574772_255036097005315_9170128328932906310_n.ad8b5b7fd6c9f0cf510b.jpg",
+    "static/media/343108918___n.jpg": "/fish-library-app/static/media/343108918_1249723069254996_1508725202135451233_n.fbb2a0fdad80974a2532.jpg",
+    "static/media/no-items-icon.svg": "/fish-library-app/static/media/no-items-icon.13a92dec7fba8d4c13bd9eec1fd8d85a.svg",
+    "index.html": "/fish-library-app/index.html",
+    "main.e84c1719.css.map": "/fish-library-app/static/css/main.e84c1719.css.map",
+    "main.e7b174e8.js.map": "/fish-library-app/static/js/main.e7b174e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e84c1719.css",
+    "static/js/main.e7b174e8.js"
+  ]
+}
