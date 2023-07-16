@@ -10,7 +10,7 @@ import { Col } from "react-bootstrap";
 import AppRoutes from "../../common/AppRoutes";
 import SessionManager from "../../common/SessionManager";
 import ProfileDialog from "../ProfilePage/ProfileDialog";
-import blobfish from "../../assets/blobfish.png";
+import blobfish from "../../assets/Logo/blobfish.png";
 import NavBarPagesEnum from "./NavBarPagesEnum";
 import { CgProfile } from "react-icons/cg";
 import { useMediaQuery } from "react-responsive";

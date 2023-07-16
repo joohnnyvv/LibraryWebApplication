@@ -2,18 +2,18 @@ import NavBar from "../UiCommon/NavBar";
 import styles from "../styles/homePage/homePage.module.css";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import UserBookManager from "../../common/UserBookManager";
-import HomePageBanner from "./HomePageBanner";
+import HomePageBanner from "./Common/HomePageBanner";
 import { useState } from "react";
 import { IoMdAdd } from "react-icons/io";
 import { MdOutlineAssignmentReturned } from "react-icons/md";
-import AddEditBooksDialog from "./AddEditBooksDialog";
+import AddEditBooksDialog from "./Dialogs/AddEditBooksDialog";
 import SuccessToast from "../UiCommon/SuccessToast";
 import SessionManager from "../../common/SessionManager";
 import RolesEnum from "../../common/RolesEnum";
 import WarningToast from "../UiCommon/WarningToast";
 import ToastEventKeys from "../UiCommon/ToastEventKeys";
 import BookManager from "../../common/BooksManager";
-import ReturnBookModal from "../BookSearch/ReturnBookModal";
+import ReturnBookModal from "../BorrowReturnBook/Modals/ReturnBookModal";
 import NavBarPagesEnum from "../UiCommon/NavBarPagesEnum";
 
 function Banner({ books, title, variant, border, background }) {

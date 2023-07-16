@@ -1,7 +1,7 @@
-import UserManager from "../components/AdminPanel/utils/UserManager";
+import UserManager from "./UserManager";
 import SessionManager from "./SessionManager";
 import HistoryManager from "./HistoryManager";
-import HistoryActions from "../components/ProfilePage/history/HistoryActionsEnum";
+import HistoryActions from "../components/ProfilePage/History/Actions/HistoryActionsEnum";
 import BookManager from "./BooksManager";
 
 export default class UserBookManager {

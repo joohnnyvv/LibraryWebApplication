@@ -1,7 +1,7 @@
 import { Button, Container, Modal } from "react-bootstrap";
 import SessionManager from "../../common/SessionManager";
 import styles from "../styles/profile.module.css";
-import PasswordText from "../AdminPanel/PasswordText";
+import PasswordText from "../AdminPanel/Common/PasswordText";
 import { IoIosLogOut, IoMdArrowRoundForward } from "react-icons/io";
 import React from "react";
 import { useNavigate } from "react-router-dom";

@@ -1,5 +1,5 @@
-import UserManager from "../components/AdminPanel/utils/UserManager";
-import HistoryObject from "../components/ProfilePage/history/HistoryObject";
+import UserManager from "./UserManager";
+import HistoryObject from "../components/ProfilePage/History/HistoryObject";
 import LocalStorageKeys from "./LocalStorageKeys";
 import SessionManager from "./SessionManager";
 

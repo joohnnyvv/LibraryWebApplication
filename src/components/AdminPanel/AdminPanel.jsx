@@ -1,10 +1,10 @@
 import { Button, Container } from "react-bootstrap";
-import UserListItem from "./UserListItem";
+import UserListItem from "./Common/UserListItem";
 import React, { useState } from "react";
 import { IoMdAdd } from "react-icons/io";
 import styles from "../styles/adminPanel.module.css";
-import UserManager from "./utils/UserManager";
-import AddEditUserDialog from "./dialogs/AddEditUserDialog";
+import UserManager from "../../common/UserManager";
+import AddEditUserDialog from "./Dialogs/AddEditUserDialog";
 import NavBar from "../UiCommon/NavBar";
 import NavBarPagesEnum from "../UiCommon/NavBarPagesEnum";
 

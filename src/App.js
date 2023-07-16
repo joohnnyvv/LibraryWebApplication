@@ -2,7 +2,7 @@ import AdminPanel from "./components/AdminPanel/AdminPanel";
 import usersJson from "./models/users.json";
 import allBooks from "./models/books.json";
 import LoginPage from "./components/LoginPage/LoginPage";
-import BookPage from "./components/BookSearch/BookPage";
+import SearchPage from "./components/SearchPage/SearchPage";
 import "./components/styles/global-styles.css";
 import FirstTimeManager from "./common/FirstTimeManager";
 import LocalStorageKeys from "./common/LocalStorageKeys";
@@ -10,7 +10,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Container } from "react-bootstrap";
 import AppRoutes from "./common/AppRoutes";
 import HomePage from "./components/HomePage/HomePage";
-import UserHistoryPage from "./components/ProfilePage/history/ui/UserHistoryPage";
+import UserHistoryPage from "./components/ProfilePage/History/UI/UserHistoryPage";
 import PrivateRoute from "./components/UiCommon/PrivateRoute";
 import ContactPage from "./components/ContactPage/ContactPage";
 import LoginRedirect from "./components/UiCommon/LoginRedirect";
@@ -49,7 +49,7 @@ function App() {
               path={AppRoutes.booksPage}
               element={
                 <PrivateRoute>
-                  <BookPage />
+                  <SearchPage />
                 </PrivateRoute>
               }
             />

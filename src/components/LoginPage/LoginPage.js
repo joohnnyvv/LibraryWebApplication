@@ -1,6 +1,6 @@
 import { Col, Button, Row, Container, Card, Form, InputGroup } from "react-bootstrap";
 import React, { useEffect, useState } from 'react';
-import UserManager from "../AdminPanel/utils/UserManager";
+import UserManager from "../../common/UserManager";
 import { useNavigate } from "react-router-dom";
 import AppRoutes from "../../common/AppRoutes";
 import ErrorToast from "../UiCommon/ErrorToast";

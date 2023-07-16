@@ -2,7 +2,7 @@ import NavBar from "../UiCommon/NavBar";
 import React from 'react';
 import { Row, Col, Image } from 'react-bootstrap';
 import styles from "../styles/contactPage.module.css";
-import people from './peopleData';
+import people from './Data/AuthorsData';
 import NavBarPagesEnum from "../UiCommon/NavBarPagesEnum";
 
 export default function ContactPage() {
