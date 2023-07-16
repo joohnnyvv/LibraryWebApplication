@@ -22,7 +22,7 @@ export default function BookItem({ book, margin, radius, userRole, shouldShowCon
   const [bookControlsShow, setBookControlsShow] = useState(false);
   const [showBorrowModal, setShowBorrowModal] = useState(false);
   const [bookDynamic, setBook] = useState(book);
-  const isAdminOrLibrarianRole = userRole != RolesEnum.user;
+  const isAdminOrLibrarianRole = userRole !== RolesEnum.user;
 
   window.addEventListener("booksStorage", (_) => {
     setBook(bookManager.getBookBy(bookDynamic.isbn13));

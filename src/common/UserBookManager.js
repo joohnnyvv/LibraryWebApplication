@@ -22,12 +22,16 @@ export default class UserBookManager {
     this.cancelReservation(bookId, user, false);
   }
 
-  reserviseBook(bookId) {
-    const user = this.#getLoggedUser();
-    user.reserved_books.push(bookId);
-    this.#updateUser(user);
-    this.historyManager.logHistory(HistoryActions.Reserve, bookId, user);
+  async reserviseBook(bookId) {
+    return new Promise((resolve, reject) => {
+      const user = this.#getLoggedUser();
+      user.reserved_books.push(bookId);
+      this.#updateUser(user);
+      this.historyManager.logHistory(HistoryActions.Reserve, bookId, user);
+      resolve();
+    });
   }
+
 
   returnBook(bookId, userId) {
     const user = this.userManager.getUserBy(userId);

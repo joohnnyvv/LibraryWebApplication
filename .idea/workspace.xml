@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="52a6fb10-3610-4e75-b5ba-e44321a383c3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UiCommon/NavBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UiCommon/NavBar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/UserBookManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/UserBookManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SearchPage/BookItem/BookItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchPage/BookItem/BookItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SearchPage/BookItem/BorrowButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchPage/BookItem/BorrowButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/bookItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/bookItem.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +61,7 @@
       <workItem from="1689245106087" duration="443000" />
       <workItem from="1689245570463" duration="918000" />
       <workItem from="1689537583392" duration="1424000" />
-      <workItem from="1689539020225" duration="2539000" />
+      <workItem from="1689539020225" duration="5194000" />
     </task>
     <servers />
   </component>
