@@ -61,7 +61,7 @@ function NavBar({
             onClick={() => navigate(AppRoutes.homePage)}
             href="#"
             className={`${currentPage === NavBarPagesEnum.home ? styles.selectedPageStyle : null} text-light py-0`}
-            style={{cursor: "pointer"}}
+            style={{cursor: "pointer", marginRight: "30px"}}
           >
             <img
               style={{ width: "60px", margin: "0px" }}

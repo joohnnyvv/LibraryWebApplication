@@ -5,50 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a6fb10-3610-4e75-b5ba-e44321a383c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/HistoryManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/HistoryManager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/LocalStorageKeys.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/LocalStorageKeys.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/UserBookManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/UserBookManager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AdminPanel/AdminPanel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AdminPanel/AdminPanel.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AdminPanel/PasswordText.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AdminPanel/Common/PasswordText.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AdminPanel/UserListItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AdminPanel/Common/UserListItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AdminPanel/dialogs/AddEditUserDialog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AdminPanel/Dialogs/AddEditUserDialog.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AdminPanel/dialogs/DeleteUserDialog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AdminPanel/Dialogs/DeleteUserDialog.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AdminPanel/utils/UserManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/UserManager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookSearch/BeforeSearchView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchPage/Common/BeforeSearchView.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookSearch/BookDetail/BookDetailModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchPage/BookDetail/BookDetailModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookSearch/BookItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchPage/BookItem/BookItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookSearch/BookList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchPage/Common/BookList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookSearch/BookListEmptyView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchPage/EmptyView/BookListEmptyView.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookSearch/BookPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchPage/SearchPage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookSearch/BorrowBookModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BorrowReturnBook/Modals/BorrowBookModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookSearch/ImageWithShimmer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchPage/Common/ImageWithShimmer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookSearch/ReturnBookItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BorrowReturnBook/ReturnBookItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookSearch/ReturnBookModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BorrowReturnBook/Modals/ReturnBookModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookSearch/SelectReturnedBookModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BorrowReturnBook/Modals/SelectReturnedBookModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookSearch/UsersTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BorrowReturnBook/UsersTable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookSearch/common/BorrowButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchPage/BookItem/BorrowButton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactPage/341574772_255036097005315_9170128328932906310_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/M.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactPage/341675610_3075286262775926_1037250746371991566_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/J.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactPage/343108918_1249723069254996_1508725202135451233_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/A.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactPage/ContactPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactPage/ContactPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactPage/peopleData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactPage/Data/AuthorsData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HomePage/AddEditBooksDialog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomePage/Dialogs/AddEditBooksDialog.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HomePage/DeleteBookDialog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomePage/Dialogs/DeleteBookDialog.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HomePage/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomePage/HomePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HomePage/HomePageBanner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomePage/Common/HomePageBanner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HomePage/HomePageCarousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomePage/Common/HomePageCarousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/LoginPage/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LoginPage/LoginPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfilePage/ProfileDialog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfilePage/ProfileDialog.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfilePage/history/HistoryAction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfilePage/History/HistoryAction.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfilePage/history/HistoryActionsEnum.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfilePage/History/HistoryActionsEnum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfilePage/history/HistoryObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfilePage/History/HistoryObject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfilePage/history/ui/HistoryBookItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfilePage/History/ui/HistoryBookItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfilePage/history/ui/HistoryItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfilePage/History/ui/HistoryItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfilePage/history/ui/HistoryPagerView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfilePage/History/ui/HistoryPagerView.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfilePage/history/ui/HistoryPanel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfilePage/History/ui/HistoryPanel.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfilePage/history/ui/HistorySideBySideView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfilePage/History/ui/HistorySideBySideView.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProfilePage/history/ui/UserHistoryPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfilePage/History/ui/UserHistoryPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UiCommon/NavBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UiCommon/NavBar.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,11 +40,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/Common" />
+      <recent name="$PROJECT_DIR$/src/assets/Logo" />
+      <recent name="$PROJECT_DIR$/src/assets/Authors" />
+      <recent name="$PROJECT_DIR$/src/components/ProfilePage/History/Actions" />
       <recent name="$PROJECT_DIR$/src/components/HomePage/Common" />
-      <recent name="$PROJECT_DIR$/src/components/HomePage/Dialogs" />
-      <recent name="$PROJECT_DIR$/src/components/ContactPage/Data" />
-      <recent name="$PROJECT_DIR$/src/assets" />
-      <recent name="$PROJECT_DIR$/src/components/BorrowReturnBook/Modals" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -100,7 +58,7 @@
       <workItem from="1689245106087" duration="443000" />
       <workItem from="1689245570463" duration="918000" />
       <workItem from="1689537583392" duration="1424000" />
-      <workItem from="1689539020225" duration="2013000" />
+      <workItem from="1689539020225" duration="2539000" />
     </task>
     <servers />
   </component>
