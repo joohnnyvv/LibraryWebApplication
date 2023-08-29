@@ -1,15 +1,30 @@
-Arkadiusz Mądry 27181, Maciej Kiełducki 26863, Jan Rembikowski 27264
+# Library Management App
+This is a web application built using React and React Bootstrap that allows you to manage library. All data is stored locally in your browser's Local Storage.
 
-App live preview: https://fish-library-project.netlify.app/
+## Login data
+**Admin:** \
+Login: root\
+Password: root
 
-How to start project locally?
+**Librarian:**\
+Login: react\
+Password: bootstrap
+
+**User:**\
+Login: JanRebak\
+Password: janrebak
+
+## App live preview: 
+https://fish-library-project.netlify.app/
+
+## Run locally
 From project main folder:
 ```
 npm install
 npm start
 ```
 
-Screen Shots: 
+## Screen Shots: 
 | Wide Screen  | Preview |
 | ------------- | ------------- |
 | ![](https://github.com/arix2000/LibraryWebApplication/assets/39887315/eecfa2ca-d0ec-473b-a645-c87f13d34c55)  | ![](https://github.com/arix2000/LibraryWebApplication/assets/39887315/142422f0-98ac-4732-9aeb-8e6801729c4f)  |
